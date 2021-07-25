@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "ccadvancedspeaker:block/speaker_front",
+    "side": "ccadvancedspeaker:block/speaker_side",
+    "top": "ccadvancedspeaker:block/speaker_top"
+  }
+}

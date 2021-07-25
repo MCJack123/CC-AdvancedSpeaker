@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+    modId="ccadvancedspeaker"
+    version="0.1.0"
+    displayName="Advanced Speaker"
+    logoFile="pack.png"
+    authors="JackMacWindows"
+    description='''
+Adds an advanced speaker peripheral for ComputerCraft/CC: Tweaked.
+'''
+[[dependencies.ccadvancedspeaker]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ccadvancedspeaker]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ccadvancedspeaker]]
+    modId="computercraft"
+    mandatory=true
+    versionRange="[1.94.0,)"
+    ordering="NONE"
+    side="BOTH"

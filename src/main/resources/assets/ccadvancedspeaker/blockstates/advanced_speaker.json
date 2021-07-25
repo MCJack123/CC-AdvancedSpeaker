@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "ccadvancedspeaker:block/advanced_speaker"},
+    "facing=south": {"model": "ccadvancedspeaker:block/advanced_speaker", "y": 180},
+    "facing=west": {"model": "ccadvancedspeaker:block/advanced_speaker", "y": 270},
+    "facing=east": {"model": "ccadvancedspeaker:block/advanced_speaker", "y": 90}
+  }
+}
